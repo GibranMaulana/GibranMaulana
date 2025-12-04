@@ -6,3 +6,5 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,tailwind,react,git,docker,nextjs,mysql,postgres,laravel&perline=10" />
   </a>
 </div>
+
+![Snake animation](https://github.com/GibranMaulana/GibranMaulana/raw/output/github-contribution-grid-snake.svg)
