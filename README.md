@@ -36,13 +36,7 @@
   <a href="mailto:narbiganaluam@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME_HERE">
+  <a href="https://instagram.com/gbrn_zm">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/auth">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316tigu3w53kk7thybeujqgoa45u?si=733d602307424b26&cover_image=true&theme=novatorem&bar_color=1793d1&bar_color_cover=false" />
   </a>
 </div>
