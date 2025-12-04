@@ -1,9 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,100:333333&height=250&section=header&text=Gibran%20Maulana&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Developer&descAlign=50" width="100%" alt="header" />
-
-<br />
-
 <div align="center">
-  <img src="https://github.com/GibranMaulana/GibranMaulana/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="https://github.com/GibranMaulana/GibranMaulana/blob/main/github-metrics.svg" alt="Metrics" width="50%" />
 </div>
 
 <br />
